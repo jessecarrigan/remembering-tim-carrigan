@@ -1,6 +1,6 @@
 ---
 date: 2016-06-14T19:03:17-07:00
-draft: true
+draft: false
 title: "First"
 ---
 
@@ -8,4 +8,4 @@ It's hard to reach back through my mind to the first specific memory I have of D
 
 The rest is a blur of vignettes and images, smells and sounds. Chainsaw gas and bar oil. An axe on rounds of Douglas Fir. A skidder engine's throaty roar. The bright light and smell of the welding flux. Dad's beard that would grow out to Grizzly Adams proportions in the fall to protect his face in the cold and disappear in late spring to accomodate the heat, making him unrecognizable for a day or two. The elderly Jehovah's Witnesses that he welcomed and debated in our kitchen. The beautiful jump shot that only seemed to improve with age. Picking up litter while walking along the road. Peanut butter and jam sandwiches, occasionally layered with pickles.
 
-I am learning haltingly to enjoy remembering even though it is still mostly painful. I mostly wish that he was still here and that we could continue making memories to follow on the first.
+I am learning haltingly to enjoy remembering even though it is still painful. I mostly wish that he was still here and that we could continue making memories to follow on the first.
